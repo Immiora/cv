@@ -32,7 +32,7 @@ orcid_username: 0000-0002-2005-8758
 # Additional icon links
 additional_links:
 - title: google_scholar
-  icon: fas fa-google
+  icon: fas fa-globe
   url: https://scholar.google.com/citations?user=S3Xx9ccAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
