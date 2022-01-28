@@ -84,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           We were among the first teams to publicly share human intracranial brain data from a cognitive task. Sixty subjects watched a short film while their brain responses were collected using electrocorticography or stereoelectroencephalography. In addition, for many subjects we provide functional magnetic resonance imaging data acquired during the same task. We share the data for public use by researchers in cognitive neuroscience and other fields.
           
-          Berezutskaya, Y., Vansteensel, M.J., Aarnoutse, E.J., Freudenburg, Z.V., Piantoni, G., Branco, M.P. & Ramsey, N.F. (2021). Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film. (article). *bioRxiv*. doi: [10.1101/2021.06.09.447733(https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
+          Berezutskaya, Y., Vansteensel, M.J., Aarnoutse, E.J., Freudenburg, Z.V., Piantoni, G., Branco, M.P. & Ramsey, N.F. (2021). Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film. (article). *bioRxiv*. doi: [10.1101/2021.06.09.447733](https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
 #
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
