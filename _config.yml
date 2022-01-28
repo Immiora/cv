@@ -55,9 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   Most of my projects revolve aroun <mark>neuroscience</mark>, <mark>machine learning</mark>, <mark>language</mark> and <mark>brain-computer interfaces</mark>.
 
-  #I am most skilled in: 
+#I am most skilled in: 
 
-# content:
+content:
+  <a class="twitter-timeline" href="https://twitter.com/ju_berezutskaya?ref_src=twsrc%5Etfw">Tweets by ju_berezutskaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 #   - title: Projects # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:
@@ -116,8 +117,6 @@ about_content: | # this will include new lines to allow paragraphs
 #
 #       Look at this cool image
 #       ![Trees](images/landscape-trees.jpg)
-
-<a class="twitter-timeline" href="https://twitter.com/ju_berezutskaya?ref_src=twsrc%5Etfw">Tweets by ju_berezutskaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Footer
 footer_show_references: true
