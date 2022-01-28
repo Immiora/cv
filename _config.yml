@@ -38,7 +38,7 @@ additional_links:
   url: https://scholar.google.com/citations?user=S3Xx9ccAAAAJ&hl=en
 - title: cv
   icon: far fa-file-pdf #(https://fontawesome.com/icons?d=gallery&m=free)
-  url: assets/CV_Julia.docx.pdf
+  url: https://immiora.github.io/cv/assets/CV_Julia.docx.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
