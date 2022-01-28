@@ -31,9 +31,9 @@ linkedin_username: juliaberezutskaya
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: google_scholar
+  icon: fas fa-google
+  url: https://scholar.google.com/citations?user=S3Xx9ccAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
