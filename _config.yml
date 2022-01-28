@@ -79,12 +79,21 @@ content:
           - title:  Github repository
             icon: fab fa-github
             url: https://github.com/UMCU-RIBS/ieeg-fmri-dataset-validation
+          - title:  Youtube video
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=C14cWM1CvrE&t=17s&ab_channel=UMCURIBS 
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           We were among the first teams to publicly share human intracranial brain data from a cognitive task. Sixty subjects watched a short film while their brain responses were collected using electrocorticography or stereoelectroencephalography. In addition, for many subjects we provide functional magnetic resonance imaging data acquired during the same task. We share the data for public use by researchers in cognitive neuroscience and other fields.
           
           Berezutskaya, Y., Vansteensel, M.J., Aarnoutse, E.J., Freudenburg, Z.V., Piantoni, G., Branco, M.P. & Ramsey, N.F. (2021). Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film. (article). *bioRxiv*. doi: [10.1101/2021.06.09.447733](https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
+          
+      - layout: top-middle
+        title: Language in Interaction
+        link: https://www.languageininteraction.nl/
+        description: | # this will include new lines to allow paragraphs
+          Within Big Question 1 we work on modeling of language processing in the brain.
 #
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
@@ -114,7 +123,7 @@ content:
 #
 #           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 #
-  - title: Twitter feed
+  - title: Twitter Feed
     layout: text
     content: | # this will include new lines to allow paragraphs
       <p style="text-align:center;"><a class="twitter-timeline" data-width="500" href="https://twitter.com/ju_berezutskaya?ref_src=twsrc%5Etfw">Tweets by ju_berezutskaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
