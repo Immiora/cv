@@ -1,7 +1,5 @@
 # Site
-url: immiora.github.io
-baseurl: /cv/
-repository: sproogen/resume-theme
+repository: immiora.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
