@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Julia Berezutskaya
-title: Postdoctoral Researcher
+title: Postdoctoral Researcher @[Radboud University](https://www.ru.nl/english/people/berezutskaya-y/)
 email: yuliya.berezutskaya@donders.ru.nl
 #website: www.github.com/sproogen/resume-theme
 
@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am committed to open reproducible science: I publish open-access and do my best to share code and data of every published project.
   
-  Most of my projects revolve aroun <mark>neuroscience</mark>, <mark>machine learning</mark>, <mark>language</mark> and <mark>brain-computer interfaces</mark>.
+  Most of my projects revolve around <mark>neuroscience</mark>, <mark>machine learning</mark>, <mark>language</mark> and <mark>brain-computer interfaces</mark>.
   
   <br>
   <br>
