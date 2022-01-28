@@ -61,25 +61,29 @@ about_content: | # this will include new lines to allow paragraphs
 
 #I am most skilled in: 
 
-# content:
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: Super awesome project
-#         link: github.com/sproogen
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#         description: | # this will include new lines to allow paragraphs
-#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Data sharing
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  Publication
+            icon: fab fa-github
+            url: https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1.full
+          - title:  Dataset
+            icon: fas fa-database
+            url: https://openneuro.org/datasets/ds003688/versions/1.0.6
+          - title:  Github repository
+            icon: fab fa-github
+            url: https://github.com/UMCU-RIBS/ieeg-fmri-dataset-validation
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          We were among the first teams to publicly share human intracranial brain data from a cognitive task. Sixty subjects watched a short film while their brain responses were collected using electrocorticography or stereoelectroencephalography. In addition, for many subjects we provide functional magnetic resonance imaging data acquired during the same task. We share the data for public use by researchers in cognitive neuroscience and other fields.
+          Berezutskaya, Y., Vansteensel, M.J., Aarnoutse, E.J., Freudenburg, Z.V., Piantoni, G., Branco, M.P. & Ramsey, N.F. (2021). Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film. (article). **bioRxiv**. doi: [10.1101/2021.06.09.447733(https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
 #
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
