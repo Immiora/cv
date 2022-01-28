@@ -144,7 +144,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 2022 - built with [modern-resume-theme](https://github.com/sproogen/modern-resume-theme)
+references_title: 2022 - built with github.com/sproogen/modern-resume-theme
 
 # Build settings
 remote_theme: sproogen/resume-theme
