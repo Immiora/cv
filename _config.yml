@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Julia Berezutskaya
+title: Postdoctoral Researcher
+email: yuliya.berezutskaya@donders.ru.nl
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: ju_berezutskaya
+github_username:  immiora
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: juliaberezutskaya
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-2005-8758
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: google_scholar
+  icon: fas fa-google
+  url: https://scholar.google.com/citations?user=S3Xx9ccAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+I focus on computational modeling of speech processes in the human brain. I try to bring together people working on natural language processing, machine learning, computational neuroscience and clinical neuroscience so that we can build powerful models of speech production and perception in the brain. Not only are such models important for our fundamental understanding of how the brain works, they are essential for development of assistive neurotechnology and brain-computer interfaces that can restore cognitive function in patients, such as communication via decoding of attempted speech in paralyzed individuals.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+I am also comitted to open and reproducible science. This means that I always do my best to publish open-access and share code and data along with our results. Despite the fact that most of the data I work with has been collected at a hospital and involved invasive human brain recordings, we were able to develop ethical protocols and de-identification pipelines that allow us to share collected data while respecting privacy of our patients.
+
+  I am most skilled in: <mark>neuroscience</mark>, <mark>machine learning</mark>, <mark>language</mark>  and <mark>brain-computer interfaces</mark>
 
 content:
   - title: Projects # Title for the section
