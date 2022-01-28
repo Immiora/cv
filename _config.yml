@@ -34,9 +34,9 @@ additional_links:
 - title: google_scholar
   icon: fab fa-google
   url: https://scholar.google.com/citations?user=S3Xx9ccAAAAJ&hl=en
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: cv
+  icon: far fa-file #(https://fontawesome.com/icons?d=gallery&m=free)
+  url: https://docs.google.com/document/d/1xBgJ0x7Lh1M3DcUHHiTTAPjBXQ8rO2uz/edit?usp=sharing&ouid=110613550405742516030&rtpof=true&sd=true
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
