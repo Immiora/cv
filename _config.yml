@@ -50,8 +50,10 @@ additional_links:
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I focus on computational modeling of speech processes in the human brain. I try to bring together people working on natural language processing, machine learning, computational neuroscience and clinical neuroscience so that we can build powerful models of speech production and perception in the brain. Not only are such models important for our fundamental understanding of how the brain works, they are essential for development of assistive neurotechnology and brain-computer interfaces that can restore cognitive function in patients, such as communication via decoding of attempted speech in paralyzed individuals.
+  
+  I am committed to open reproducible science: I publish open-access and do my best to share code and data of every published project.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>neuroscience</mark>, <mark>machine learning</mark>, <mark>language</mark> and <mark>brain-computer interfaces</mark>
 
 # content:
 #   - title: Projects # Title for the section
