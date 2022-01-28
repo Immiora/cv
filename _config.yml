@@ -28,12 +28,13 @@ linkedin_username: juliaberezutskaya
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
+googlescholar_username: S3Xx9ccAAAAJ
 
 # Additional icon links
 additional_links:
-- title: google_scholar
-  icon: fab fa-google
-  url: https://scholar.google.com/citations?user=S3Xx9ccAAAAJ&hl=en
+#- title: google_scholar
+#  icon: fab fa-google
+#  url: https://scholar.google.com/citations?user=S3Xx9ccAAAAJ&hl=en
 - title: cv
   icon: far fa-file-pdf #(https://fontawesome.com/icons?d=gallery&m=free)
   url: https://immiora.github.io/cv/assets/CV_Julia.docx.pdf
@@ -46,7 +47,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I focus on computational modeling of speech processes in the human brain. I try to bring together people working on natural language processing, machine learning, computational neuroscience and clinical neuroscience so that we can build powerful models of speech production and perception in the brain. Not only are such models important for our fundamental understanding of how the brain works, they are essential for development of assistive neurotechnology and brain-computer interfaces that can restore cognitive function in patients, such as communication via decoding of attempted speech in paralyzed individuals.
 
@@ -114,7 +115,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: 2022
 
 # Build settings
 remote_theme: sproogen/resume-theme
