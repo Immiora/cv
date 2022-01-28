@@ -54,11 +54,12 @@ about_content: | # this will include new lines to allow paragraphs
   I am committed to open reproducible science: I publish open-access and do my best to share code and data of every published project.
   
   Most of my projects revolve aroun <mark>neuroscience</mark>, <mark>machine learning</mark>, <mark>language</mark> and <mark>brain-computer interfaces</mark>.
+  
+    <a class="twitter-timeline" href="https://twitter.com/ju_berezutskaya?ref_src=twsrc%5Etfw">Tweets by ju_berezutskaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #I am most skilled in: 
 
-content:
-  <a class="twitter-timeline" href="https://twitter.com/ju_berezutskaya?ref_src=twsrc%5Etfw">Tweets by ju_berezutskaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# content:
 #   - title: Projects # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:
