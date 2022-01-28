@@ -66,7 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Open multimodal iEEG-fMRI dataset (63 subjects)
+        title: Open Multimodal IEEG-FMRI Dataset (63 subjects)
         link: https://openneuro.org/datasets/ds003688/versions/1.0.6
         # link_text: Project Website
         additional_links:
@@ -87,13 +87,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           We were among the first teams to publicly share human intracranial brain data from a cognitive task. Sixty subjects watched a short film while their brain responses were collected using electrocorticography or stereoelectroencephalography. In addition, for many subjects we provide functional magnetic resonance imaging data acquired during the same task. We share the data for public use by researchers in cognitive neuroscience and other fields.
           
-          Berezutskaya, Y., Vansteensel, M.J., Aarnoutse, E.J., Freudenburg, Z.V., Piantoni, G., Branco, M.P. & Ramsey, N.F. (2021). Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film. (article). *bioRxiv*. doi: [10.1101/2021.06.09.447733](https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
+          Berezutskaya, J., Vansteensel, M.J., Aarnoutse, E.J., Freudenburg, Z.V., Piantoni, G., Branco, M.P. & Ramsey, N.F. (2021). Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film. (article). *bioRxiv*. doi: [10.1101/2021.06.09.447733](https://doi.org/10.1101/2021.06.09.447733)
           
       - layout: top-middle
         title: Language in Interaction
         link: https://www.languageininteraction.nl/
         description: | # this will include new lines to allow paragraphs
-          Within Big Question 1 we work on modeling of language processing in the brain.
+          Within [Big Question 1](https://www.languageininteraction.nl/research-organization/big-questions/big-question-1/) our team works on computational modeling of language processing in the brain. I develop neural encoding and decoding models that help us understand how the brain processes speech.
+          
+          Berezutskaya, J., Freudenburg, Z.V., Ambrogioni, L., Güçlü, U., Gerven, M.A.J. van & Ramsey, N.F. (2020). Cortical network responses map onto data-driven features that capture visual semantics of movie fragments. *Scientific Reports*, 10:12077. doi: [10.1038/s41598-020-68853-y](https://doi.org/10.1038/s41598-020-68853-y)
+          
+          Berezutskaya, J., Freudenburg, Z.V., Güçlü, U., Gerven, M.A.J. van & Ramsey, N.F. (2020). Brain-optimized extraction of complex sound features that drive continuous auditory perception. *Plos Computational Biology*, 16 (7):e1007992. doi: [10.1371/journal.pcbi.1007992](https://doi.org/10.1371/journal.pcbi.1007992)
+          
+          Berezutskaya, J., Baratin, C., Freudenburg, Z.V. & Ramsey, N.F. (2020). High-density intracranial recordings reveal a distinct site in anterior dorsal precentral cortex that tracks perceived speech. *Human Brain Mapping*, 41 (16), 4587-4609. doi: [10.1002/hbm.25144](https://doi.org/10.1002/hbm.25144) 
+          
+          Berezutskaya, Y., Freudenburg, Z.V., Güçlü, U., Gerven, M.A.J. van & Ramsey, N.F. (2017). Neural tuning to low-level features of speech throughout the perisylvian cortex. *The Journal of Neuroscience*, 37 (33), 7906-7920. doi: [10.1523/JNEUROSCI.0238-17.2017](https://doi.org/10.1523/JNEUROSCI.0238-17.2017)
 #
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
