@@ -107,7 +107,7 @@ content:
         title: INTENSE
         link: https://intenseproject.eu/
         description: | # this will include new lines to allow paragraphs
-          Within [WP-B](https://intenseproject.eu/work-packages/artificial-intelligence) our team applied recent advances in computational modeling and artificial intelligence to development of real-wordl clinical applications in the field on neurotechnology. My work focuses on model for speech decoding and reconstruction from intracranial brain activity. Our goal is to build and validate brain-computer interface solutions for severely paralyzed individuals and provide them with means of communication with the outside world.
+          Within [WP-B](https://intenseproject.eu/work-packages/artificial-intelligence) our team uses recent advances in computational modeling and artificial intelligence for development of real-wordl clinical applications in the field on neurotechnology. My work focuses on models for speech decoding and reconstruction from intracranial brain activity. My goal is to build and validate brain-computer interface solutions for severely paralyzed individuals and provide them with means of communication with the outside world.
 #
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
