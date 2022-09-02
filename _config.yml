@@ -137,7 +137,7 @@ content:
 #
 #           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 #
-  - title: [Twitter Feed](#twitter)
+  - title: Twitter
     layout: text
     content: | # this will include new lines to allow paragraphs
       <p style="text-align:center;"><a class="twitter-timeline" data-width="500" href="https://twitter.com/ju_berezutskaya?ref_src=twsrc%5Etfw">Tweets by ju_berezutskaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
