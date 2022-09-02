@@ -84,8 +84,7 @@ content:
             url: https://www.youtube.com/watch?v=C14cWM1CvrE&t=17s&ab_channel=UMCURIBS 
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs ![alt text](assets/dataset.png "Dataset")
-          <img src="assets/dataset.png" alt="dataset" width="50%"/>
+        description: | # this will include new lines to allow paragraphs ![alt text](assets/dataset.png "Dataset")<img src="assets/dataset.png" alt="dataset" width="50%"/>
           We were among the first teams to publicly share human intracranial brain data from a cognitive task. Sixty subjects watched a short film while their brain responses were collected using electrocorticography or stereoelectroencephalography. In addition, for many subjects we provide functional magnetic resonance imaging data acquired during the same task. We share the data for public use by researchers in cognitive neuroscience and other fields.
           
           - Berezutskaya, J., Vansteensel, M.J., Aarnoutse, E.J., Freudenburg, Z.V., Piantoni, G., Branco, M.P. & Ramsey, N.F. (2022). Open multimodal iEEG-fMRI dataset from naturalistic stimulation with a short audiovisual film. (article). *Scientific Data*. doi: [10.1038/s41597-022-01173-0](https://doi.org/10.1038/s41597-022-01173-0)
